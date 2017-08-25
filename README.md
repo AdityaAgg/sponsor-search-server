@@ -2,7 +2,7 @@
 
 1. Clone the Repository.
 
-2. node server.js
+2. `node server.js`
 
 
 ## Ideas for Further Implementation
