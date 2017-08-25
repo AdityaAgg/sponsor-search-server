@@ -1,11 +1,11 @@
-##Deployment Docs
+## Deployment Docs
 
 1. Clone the Repository.
 
 2. node server.js
 
 
-##Ideas for Further Implementation
+## Ideas for Further Implementation
 
 <ul>
 <li> Sort alphabetically </li>
