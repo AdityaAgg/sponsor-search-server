@@ -13,5 +13,3 @@
 <li> Automatic Data Pipeline </li>
 <li> Crawl Websites for Better Search </li>
 </ul>
-
-[Server Code](https://github.com/AdityaAgg/sponsor-search-server.git)
