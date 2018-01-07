@@ -7,6 +7,8 @@
 
 ## Ideas for Further Implementation
 
+_Warning: Discovery Service Instance is Currently Missing; therefore, search results will not show_
+
 <ul>
 <li> Sort alphabetically </li>
 <li> Store Watson Passwords and Usernames as Server Environment Variables rather than hardcoded </li>
